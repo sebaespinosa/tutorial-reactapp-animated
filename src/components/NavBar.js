@@ -8,9 +8,9 @@ import navIcon3 from '../assets/img/nav-icon3.svg';
 
 export const NavBar = () => {
 
-    const { activeLink, setActiveLink } = useState('home');
+    const [ activeLink, setActiveLink ] = useState('home');
     //Para detectar si el usuario ha hecho scroll y cambiar el color de fondo del Navbar
-    const { scrolled, setScrolled} = useState(false);
+    const [ scrolled, setScrolled ] = useState(false);
     //Cuando se realiza un scroll, se dispara el useEffect
     useEffect(() => {
         const onScroll = () => {
