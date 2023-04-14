@@ -6,3 +6,4 @@ npm install express cors nodemailer (para el envío de email en el formulario de
 npm install react-mailchimp-subscribe (para subscribirse al newsletter usando mailchimp)
 npm install animate.css --save
 npm install react-on-screen
+npm install react-router-hash-link
