@@ -1,4 +1,6 @@
 
+Video Tutorial: https://www.youtube.com/watch?v=hYv6BM2fWd8&ab_channel=webdecoded
+
 npm install react-bootstrap bootstrap
 npm install react-bootstrap-icons --save
 npm install react-multi-carousel
